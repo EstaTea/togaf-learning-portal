@@ -1,0 +1,17 @@
+# 原始含敏感信息的文件，不发布
+10a_佛照案例_Preliminary_PhaseA_PhaseB.md
+10b_佛照案例_PhaseCD_PhaseE.md
+10c_佛照案例_PhaseFGH_RM_总结.md
+08_佛照项目TOGAF实战应用.md
+togaf_coursera.html
+# 生成脚本（含文件路径，不公开）
+gen_fsl_part1.py
+gen_fsl_part2.py
+gen_fsl_part3.py
+generate_coursera.py
+generate_public.py
+anonymize_fsl.py
+# 其他
+*.py
+*.xlsx
+*.docx
